@@ -1,0 +1,81 @@
+[06-Jul-2023 15:33:27 Asia/Almaty] PHP Fatal error:  Uncaught Error: Call to undefined method d::v() in /Applications/MAMP/htdocs/ru-models.ru/admin/index.php:883
+Stack trace:
+#0 /Applications/MAMP/htdocs/ru-models.ru/admin/index.php(690): d->r('/Applications/M...')
+#1 /Applications/MAMP/htdocs/ru-models.ru/admin/index.php(671): d->c('/Applications/M...')
+#2 /Applications/MAMP/htdocs/ru-models.ru/admin/index.php(433): d->b()
+#3 /Applications/MAMP/htdocs/ru-models.ru/admin/index.php(1105): d->a()
+#4 {main}
+  thrown in /Applications/MAMP/htdocs/ru-models.ru/admin/index.php on line 883
+[06-Jul-2023 15:33:29 Asia/Almaty] PHP Fatal error:  Uncaught Error: Call to undefined method d::v() in /Applications/MAMP/htdocs/ru-models.ru/admin/index.php:883
+Stack trace:
+#0 /Applications/MAMP/htdocs/ru-models.ru/admin/index.php(690): d->r('/Applications/M...')
+#1 /Applications/MAMP/htdocs/ru-models.ru/admin/index.php(671): d->c('/Applications/M...')
+#2 /Applications/MAMP/htdocs/ru-models.ru/admin/index.php(433): d->b()
+#3 /Applications/MAMP/htdocs/ru-models.ru/admin/index.php(1105): d->a()
+#4 {main}
+  thrown in /Applications/MAMP/htdocs/ru-models.ru/admin/index.php on line 883
+[06-Jul-2023 15:34:55 Asia/Almaty] PHP Notice:  Undefined index: {url}vendors/ in /Applications/MAMP/htdocs/ru-models.ru/admin/index.php on line 1074
+[06-Jul-2023 15:34:55 Asia/Almaty] PHP Notice:  Undefined index: {url}jquery/ in /Applications/MAMP/htdocs/ru-models.ru/admin/index.php on line 1074
+[06-Jul-2023 15:34:55 Asia/Almaty] PHP Notice:  Undefined index: {url}admin/ in /Applications/MAMP/htdocs/ru-models.ru/admin/index.php on line 1074
+[06-Jul-2023 15:34:55 Asia/Almaty] PHP Notice:  Undefined index: {url}uploads/ in /Applications/MAMP/htdocs/ru-models.ru/admin/index.php on line 1074
+[06-Jul-2023 15:34:55 Asia/Almaty] PHP Notice:  Undefined index: {url}contact-form-7/ in /Applications/MAMP/htdocs/ru-models.ru/admin/index.php on line 1074
+[06-Jul-2023 15:34:55 Asia/Almaty] PHP Notice:  Undefined index: {url}assets/ in /Applications/MAMP/htdocs/ru-models.ru/admin/index.php on line 1074
+[06-Jul-2023 15:34:55 Asia/Almaty] PHP Notice:  Undefined index: {url} in /Applications/MAMP/htdocs/ru-models.ru/admin/index.php on line 1074
+[06-Jul-2023 15:34:57 Asia/Almaty] PHP Notice:  Undefined index: {url}vendors/ in /Applications/MAMP/htdocs/ru-models.ru/admin/index.php on line 1074
+[06-Jul-2023 15:34:57 Asia/Almaty] PHP Notice:  Undefined index: {url}jquery/ in /Applications/MAMP/htdocs/ru-models.ru/admin/index.php on line 1074
+[06-Jul-2023 15:34:57 Asia/Almaty] PHP Notice:  Undefined index: {url}admin/ in /Applications/MAMP/htdocs/ru-models.ru/admin/index.php on line 1074
+[06-Jul-2023 15:34:57 Asia/Almaty] PHP Notice:  Undefined index: {url}uploads/ in /Applications/MAMP/htdocs/ru-models.ru/admin/index.php on line 1074
+[06-Jul-2023 15:34:57 Asia/Almaty] PHP Notice:  Undefined index: {url}contact-form-7/ in /Applications/MAMP/htdocs/ru-models.ru/admin/index.php on line 1074
+[06-Jul-2023 15:34:57 Asia/Almaty] PHP Notice:  Undefined index: {url}assets/ in /Applications/MAMP/htdocs/ru-models.ru/admin/index.php on line 1074
+[06-Jul-2023 15:34:57 Asia/Almaty] PHP Notice:  Undefined index: {url} in /Applications/MAMP/htdocs/ru-models.ru/admin/index.php on line 1074
+[06-Jul-2023 15:35:39 Asia/Almaty] PHP Notice:  Undefined variable: d in /Applications/MAMP/htdocs/ru-models.ru/admin/index.php on line 1004
+[06-Jul-2023 15:35:44 Asia/Almaty] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function c::m(), 0 passed in /Applications/MAMP/htdocs/ru-models.ru/admin/index.php on line 1004 and exactly 2 expected in /Applications/MAMP/htdocs/ru-models.ru/admin/index.php:396
+Stack trace:
+#0 /Applications/MAMP/htdocs/ru-models.ru/admin/index.php(1004): c->m()
+#1 /Applications/MAMP/htdocs/ru-models.ru/admin/index.php(883): d->v()
+#2 /Applications/MAMP/htdocs/ru-models.ru/admin/index.php(690): d->r('/Applications/M...')
+#3 /Applications/MAMP/htdocs/ru-models.ru/admin/index.php(671): d->c('/Applications/M...')
+#4 /Applications/MAMP/htdocs/ru-models.ru/admin/index.php(433): d->b()
+#5 /Applications/MAMP/htdocs/ru-models.ru/admin/index.php(1105): d->a()
+#6 {main}
+  thrown in /Applications/MAMP/htdocs/ru-models.ru/admin/index.php on line 396
+[06-Jul-2023 15:35:46 Asia/Almaty] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function c::m(), 0 passed in /Applications/MAMP/htdocs/ru-models.ru/admin/index.php on line 1004 and exactly 2 expected in /Applications/MAMP/htdocs/ru-models.ru/admin/index.php:396
+Stack trace:
+#0 /Applications/MAMP/htdocs/ru-models.ru/admin/index.php(1004): c->m()
+#1 /Applications/MAMP/htdocs/ru-models.ru/admin/index.php(883): d->v()
+#2 /Applications/MAMP/htdocs/ru-models.ru/admin/index.php(690): d->r('/Applications/M...')
+#3 /Applications/MAMP/htdocs/ru-models.ru/admin/index.php(671): d->c('/Applications/M...')
+#4 /Applications/MAMP/htdocs/ru-models.ru/admin/index.php(433): d->b()
+#5 /Applications/MAMP/htdocs/ru-models.ru/admin/index.php(1105): d->a()
+#6 {main}
+  thrown in /Applications/MAMP/htdocs/ru-models.ru/admin/index.php on line 396
+[06-Jul-2023 15:37:04 Asia/Almaty] PHP Notice:  Undefined variable: e in /Applications/MAMP/htdocs/ru-models.ru/admin/index.php on line 403
+[06-Jul-2023 15:37:04 Asia/Almaty] PHP Notice:  Undefined variable: e in /Applications/MAMP/htdocs/ru-models.ru/admin/index.php on line 403
+[06-Jul-2023 15:37:04 Asia/Almaty] PHP Notice:  Undefined variable: e in /Applications/MAMP/htdocs/ru-models.ru/admin/index.php on line 403
+[06-Jul-2023 15:37:04 Asia/Almaty] PHP Notice:  Undefined variable: e in /Applications/MAMP/htdocs/ru-models.ru/admin/index.php on line 403
+[06-Jul-2023 15:37:04 Asia/Almaty] PHP Notice:  Undefined variable: e in /Applications/MAMP/htdocs/ru-models.ru/admin/index.php on line 403
+[06-Jul-2023 15:37:04 Asia/Almaty] PHP Notice:  Undefined variable: e in /Applications/MAMP/htdocs/ru-models.ru/admin/index.php on line 403
+[06-Jul-2023 15:37:04 Asia/Almaty] PHP Notice:  Undefined variable: e in /Applications/MAMP/htdocs/ru-models.ru/admin/index.php on line 403
+[06-Jul-2023 15:37:04 Asia/Almaty] PHP Notice:  Undefined variable: e in /Applications/MAMP/htdocs/ru-models.ru/admin/index.php on line 403
+[06-Jul-2023 15:37:04 Asia/Almaty] PHP Notice:  Undefined variable: e in /Applications/MAMP/htdocs/ru-models.ru/admin/index.php on line 403
+[06-Jul-2023 15:37:04 Asia/Almaty] PHP Notice:  Undefined variable: e in /Applications/MAMP/htdocs/ru-models.ru/admin/index.php on line 403
+[06-Jul-2023 15:37:04 Asia/Almaty] PHP Notice:  Undefined variable: e in /Applications/MAMP/htdocs/ru-models.ru/admin/index.php on line 403
+[06-Jul-2023 15:37:04 Asia/Almaty] PHP Notice:  Undefined variable: e in /Applications/MAMP/htdocs/ru-models.ru/admin/index.php on line 403
+[06-Jul-2023 15:37:04 Asia/Almaty] PHP Notice:  Undefined variable: e in /Applications/MAMP/htdocs/ru-models.ru/admin/index.php on line 403
+[06-Jul-2023 15:37:04 Asia/Almaty] PHP Notice:  Undefined variable: e in /Applications/MAMP/htdocs/ru-models.ru/admin/index.php on line 403
+[06-Jul-2023 15:37:04 Asia/Almaty] PHP Notice:  Undefined variable: e in /Applications/MAMP/htdocs/ru-models.ru/admin/index.php on line 403
+[06-Jul-2023 15:37:04 Asia/Almaty] PHP Notice:  Undefined variable: e in /Applications/MAMP/htdocs/ru-models.ru/admin/index.php on line 403
+[06-Jul-2023 15:37:04 Asia/Almaty] PHP Notice:  Undefined variable: e in /Applications/MAMP/htdocs/ru-models.ru/admin/index.php on line 403
+[06-Jul-2023 15:37:04 Asia/Almaty] PHP Notice:  Undefined variable: e in /Applications/MAMP/htdocs/ru-models.ru/admin/index.php on line 403
+[06-Jul-2023 15:37:04 Asia/Almaty] PHP Notice:  Undefined variable: e in /Applications/MAMP/htdocs/ru-models.ru/admin/index.php on line 403
+[06-Jul-2023 15:37:04 Asia/Almaty] PHP Notice:  Undefined variable: e in /Applications/MAMP/htdocs/ru-models.ru/admin/index.php on line 403
+[06-Jul-2023 15:37:04 Asia/Almaty] PHP Notice:  Undefined variable: e in /Applications/MAMP/htdocs/ru-models.ru/admin/index.php on line 403
+[06-Jul-2023 15:37:04 Asia/Almaty] PHP Notice:  Undefined variable: e in /Applications/MAMP/htdocs/ru-models.ru/admin/index.php on line 403
+[06-Jul-2023 15:37:04 Asia/Almaty] PHP Notice:  Undefined variable: e in /Applications/MAMP/htdocs/ru-models.ru/admin/index.php on line 403
+[06-Jul-2023 15:37:04 Asia/Almaty] PHP Notice:  Undefined variable: e in /Applications/MAMP/htdocs/ru-models.ru/admin/index.php on line 403
+[06-Jul-2023 15:37:04 Asia/Almaty] PHP Notice:  Undefined variable: e in /Applications/MAMP/htdocs/ru-models.ru/admin/index.php on line 403
+[06-Jul-2023 15:37:04 Asia/Almaty] PHP Notice:  Undefined variable: e in /Applications/MAMP/htdocs/ru-models.ru/admin/index.php on line 403
+[06-Jul-2023 15:37:04 Asia/Almaty] PHP Notice:  Undefined variable: e in /Applications/MAMP/htdocs/ru-models.ru/admin/index.php on line 403
+[06-Jul-2023 15:37:04 Asia/Almaty] PHP Notice:  Undefined variable: e in /Applications/MAMP/htdocs/ru-models.ru/admin/index.php on line 403
+[06-Jul-2023 15:37:04 Asia/Almaty] PHP Notice:  Undefined variable: e in /Applications/MAMP/htdocs/ru-models.ru/admin/index.php on line 403
+[06-Jul-2023 15:37:04 Asia/Almaty] PHP Notice:  Undefined variable: e in /Applications/MAMP/htdocs/ru-models.ru/admin/index.php on line 403

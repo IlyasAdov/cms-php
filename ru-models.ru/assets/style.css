@@ -1,0 +1,21 @@
+/*
+Theme Name: RF Models
+Theme URI: 
+Author: farique
+Author URI: http://farique.com
+Description: RF Models Wordpress Theme
+License: 
+License URI: 
+Tags: 
+
+copyright farique, 2017
+*/
+
+
+label.rc-anchor-checkbox-label {
+  display: none;
+}
+
+label.rc-anchor-checkbox-label::before {
+  content: "Я не робот";
+}
