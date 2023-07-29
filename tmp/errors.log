@@ -286,3 +286,277 @@
 ====================
 [2023-07-28 12:08:25] Текст ошибки: Страница не найдена! | Файл: /Applications/MAMP/htdocs/vendor/ad/core/Router.php | Строка: 41
 ====================
+[2023-07-29 22:44:34] Текст ошибки: Страница не найдена! | Файл: /Applications/MAMP/htdocs/vendor/ad/core/Router.php | Строка: 41
+====================
+[2023-07-29 22:44:35] Текст ошибки: Страница не найдена! | Файл: /Applications/MAMP/htdocs/vendor/ad/core/Router.php | Строка: 41
+====================
+[2023-07-29 22:55:31] Текст ошибки: Страница не найдена! | Файл: /Applications/MAMP/htdocs/vendor/ad/core/Router.php | Строка: 41
+====================
+[2023-07-29 22:59:34] Текст ошибки: Страница не найдена! | Файл: /Applications/MAMP/htdocs/vendor/ad/core/Router.php | Строка: 41
+====================
+[2023-07-29 22:59:36] Текст ошибки: Страница не найдена! | Файл: /Applications/MAMP/htdocs/vendor/ad/core/Router.php | Строка: 41
+====================
+[2023-07-29 22:59:36] Текст ошибки: Страница не найдена! | Файл: /Applications/MAMP/htdocs/vendor/ad/core/Router.php | Строка: 41
+====================
+[2023-07-29 22:59:37] Текст ошибки: Страница не найдена! | Файл: /Applications/MAMP/htdocs/vendor/ad/core/Router.php | Строка: 41
+====================
+[2023-07-29 23:00:13] Текст ошибки: Страница не найдена! | Файл: /Applications/MAMP/htdocs/vendor/ad/core/Router.php | Строка: 41
+====================
+[2023-07-29 23:00:15] Текст ошибки: Страница не найдена! | Файл: /Applications/MAMP/htdocs/vendor/ad/core/Router.php | Строка: 41
+====================
+[2023-07-29 23:01:07] Текст ошибки: Страница не найдена! | Файл: /Applications/MAMP/htdocs/vendor/ad/core/Router.php | Строка: 41
+====================
+[2023-07-29 23:03:47] Текст ошибки: Страница не найдена! | Файл: /Applications/MAMP/htdocs/vendor/ad/core/Router.php | Строка: 41
+====================
+[2023-07-29 23:03:53] Текст ошибки: Страница не найдена! | Файл: /Applications/MAMP/htdocs/vendor/ad/core/Router.php | Строка: 41
+====================
+[2023-07-29 23:03:56] Текст ошибки: Страница не найдена! | Файл: /Applications/MAMP/htdocs/vendor/ad/core/Router.php | Строка: 41
+====================
+[2023-07-29 23:03:56] Текст ошибки: Страница не найдена! | Файл: /Applications/MAMP/htdocs/vendor/ad/core/Router.php | Строка: 41
+====================
+[2023-07-29 23:03:56] Текст ошибки: Страница не найдена! | Файл: /Applications/MAMP/htdocs/vendor/ad/core/Router.php | Строка: 41
+====================
+[2023-07-29 23:04:29] Текст ошибки: Страница не найдена! | Файл: /Applications/MAMP/htdocs/vendor/ad/core/Router.php | Строка: 41
+====================
+[2023-07-29 23:04:30] Текст ошибки: Страница не найдена! | Файл: /Applications/MAMP/htdocs/vendor/ad/core/Router.php | Строка: 41
+====================
+[2023-07-29 23:04:30] Текст ошибки: Страница не найдена! | Файл: /Applications/MAMP/htdocs/vendor/ad/core/Router.php | Строка: 41
+====================
+[2023-07-29 23:04:30] Текст ошибки: Страница не найдена! | Файл: /Applications/MAMP/htdocs/vendor/ad/core/Router.php | Строка: 41
+====================
+[2023-07-29 23:04:31] Текст ошибки: Страница не найдена! | Файл: /Applications/MAMP/htdocs/vendor/ad/core/Router.php | Строка: 41
+====================
+[2023-07-29 23:31:29] Текст ошибки: syntax error, unexpected '}', expecting ';' | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 21
+====================
+[2023-07-29 23:31:30] Текст ошибки: syntax error, unexpected '}', expecting ';' | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 21
+====================
+[2023-07-29 23:31:31] Текст ошибки: syntax error, unexpected '}', expecting ';' | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 21
+====================
+[2023-07-29 23:31:31] Текст ошибки: syntax error, unexpected '}', expecting ';' | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 21
+====================
+[2023-07-29 23:31:31] Текст ошибки: syntax error, unexpected '}', expecting ';' | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 21
+====================
+[2023-07-29 23:31:31] Текст ошибки: syntax error, unexpected '}', expecting ';' | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 21
+====================
+[2023-07-29 23:33:54] Текст ошибки: Class 'app\controllers\App' not found | Файл: /Applications/MAMP/htdocs/app/controllers/AppController.php | Строка: 13
+====================
+[2023-07-29 23:33:54] Текст ошибки: Class 'app\controllers\App' not found | Файл: /Applications/MAMP/htdocs/app/controllers/AppController.php | Строка: 13
+====================
+[2023-07-29 23:33:55] Текст ошибки: Class 'app\controllers\App' not found | Файл: /Applications/MAMP/htdocs/app/controllers/AppController.php | Строка: 13
+====================
+[2023-07-29 23:34:13] Текст ошибки: Class 'app\controllers\App' not found | Файл: /Applications/MAMP/htdocs/app/controllers/AppController.php | Строка: 13
+====================
+[2023-07-29 23:34:13] Текст ошибки: Class 'app\controllers\App' not found | Файл: /Applications/MAMP/htdocs/app/controllers/AppController.php | Строка: 13
+====================
+[2023-07-29 23:34:14] Текст ошибки: Class 'app\controllers\App' not found | Файл: /Applications/MAMP/htdocs/app/controllers/AppController.php | Строка: 13
+====================
+[2023-07-29 23:34:14] Текст ошибки: Class 'app\controllers\App' not found | Файл: /Applications/MAMP/htdocs/app/controllers/AppController.php | Строка: 13
+====================
+[2023-07-29 23:34:14] Текст ошибки: Class 'app\controllers\App' not found | Файл: /Applications/MAMP/htdocs/app/controllers/AppController.php | Строка: 13
+====================
+[2023-07-29 23:34:14] Текст ошибки: Class 'app\controllers\App' not found | Файл: /Applications/MAMP/htdocs/app/controllers/AppController.php | Строка: 13
+====================
+[2023-07-29 23:34:15] Текст ошибки: Class 'app\controllers\App' not found | Файл: /Applications/MAMP/htdocs/app/controllers/AppController.php | Строка: 13
+====================
+[2023-07-29 23:34:15] Текст ошибки: Class 'app\controllers\App' not found | Файл: /Applications/MAMP/htdocs/app/controllers/AppController.php | Строка: 13
+====================
+[2023-07-29 23:34:16] Текст ошибки: Class 'app\controllers\App' not found | Файл: /Applications/MAMP/htdocs/app/controllers/AppController.php | Строка: 13
+====================
+[2023-07-29 23:51:44] Текст ошибки: syntax error, unexpected 'App' (T_STRING) | Файл: /Applications/MAMP/htdocs/app/controllers/AppController.php | Строка: 15
+====================
+[2023-07-29 23:51:54] Текст ошибки: syntax error, unexpected 'App' (T_STRING) | Файл: /Applications/MAMP/htdocs/app/controllers/AppController.php | Строка: 15
+====================
+[2023-07-30 00:03:59] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:04:02] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:04:40] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:04:40] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:04:41] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:06:13] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:06:14] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:06:14] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:06:14] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:06:15] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:06:36] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:06:37] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:06:37] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:06:37] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:06:38] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:06:38] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:06:39] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:06:39] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:06:39] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:06:39] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:06:39] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:06:39] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:06:39] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:06:39] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:06:39] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:06:39] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:06:39] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:06:39] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:06:40] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:06:40] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:06:40] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:06:40] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:06:40] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:06:41] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:06:41] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:06:53] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:06:54] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:06:54] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:06:55] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:06:55] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:06:55] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:06:55] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:06:56] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:06:56] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:07:09] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:07:09] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:07:09] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:07:38] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:07:39] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:07:39] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:07:39] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:07:40] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:07:40] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:07:40] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:07:40] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:07:40] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:07:40] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:07:40] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:07:40] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:07:41] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:07:54] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:07:55] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:07:55] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:07:55] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:07:55] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:07:56] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:07:56] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:08:00] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:08:00] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:08:00] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:08:00] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:10:21] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:10:21] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:10:22] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:10:22] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:10:24] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:10:25] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:10:25] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:10:25] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:10:25] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:10:26] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:10:26] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:10:26] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:10:26] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:10:26] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:11:02] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:11:02] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:11:03] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:11:03] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:11:03] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:11:03] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:11:35] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:11:35] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:11:48] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:11:48] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:11:49] Текст ошибки: Class 'app\widgets\currency\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/currency/Currency.php | Строка: 16
+====================
+[2023-07-30 00:20:00] Текст ошибки: Метод app\controllers\CurrencyController::changeAction не найден! | Файл: /Applications/MAMP/htdocs/vendor/ad/core/Router.php | Строка: 35
+====================
