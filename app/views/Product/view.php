@@ -30,20 +30,6 @@
                             </li> 
                             </ul>
                     </div>
-                    <!-- FlexSlider -->
-                    <script src="js/imagezoom.js"></script>
-                    <script defer src="js/jquery.flexslider.js"></script>
-                    <link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" />
-
-                    <script>
-                    // Can also be used with $(document).ready()
-                    $(window).load(function() {
-                        $('.flexslider').flexslider({
-                        animation: "slide",
-                        controlNav: "thumbnails"
-                        });
-                    });
-                    </script>
                 </div>	
                 <div class="col-md-7 single-top-right">
                     <div class="single-para simpleCart_shelfItem">

@@ -6,6 +6,7 @@
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
     <link href="megamenu/css/ionicons.min.css" rel="stylesheet" type="text/css" media="all" />
     <link href="megamenu/css/style.css" rel="stylesheet" type="text/css" media="all" />
+    <link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" />
     <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />	
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -164,6 +165,17 @@
         });
     </script>
     <script src="megamenu/js/megamenu.js"></script>
+    <script src="js/imagezoom.js"></script>
+    <script defer src="js/jquery.flexslider.js"></script>
+    <script>
+        // Can also be used with $(document).ready()
+        $(window).load(function() {
+            $('.flexslider').flexslider({
+            animation: "slide",
+            controlNav: "thumbnails"
+            });
+        });
+    </script>
     <script src="js/main.js"></script>
 </body>
 </html>
