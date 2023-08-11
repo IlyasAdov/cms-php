@@ -40,6 +40,7 @@
 <!--about-end-->
 <!--product-starts-->
 	<?php if (!empty($hits)) : ?>
+    <?php $curr = \ad\App::$app->getProperty('currency'); ?>
     <div class="product"> 
 		<div class="container">
 			<div class="product-top">
@@ -52,15 +53,15 @@
 								<h3><a href="product/<?= $hit['alias'] ?>"><?= $hit['title'] ?></a></h3>
 								<p>Explore now</p>
 								<h4>
-                                    <a class="add-to-cart-link" href="cart/add?id=<?= $hit['id'] ?>"><i></i></a> <span class=" item_price">$ <?= $hit['price'] ?></span>
+                                    <a class="add-to-cart-link" href="cart/add?id=<?= $hit['id'] ?>"><i></i></a> <span class=" item_price"><?= $curr['symbol_left'] ?><?= (float)$hit['price'] * (float)$curr['value'] ?><?= $curr['symbol_right'] ?></span>
                                     <?php if (!empty($hit['old_price'])) : ?>
-                                    <small><del><?= $hit['old_price'] ?></del></small>
+                                    <small><del><?= $curr['symbol_left'] ?><?= (float)$hit['old_price'] * (float)$curr['value'] ?><?= $curr['symbol_right'] ?></del></small>
                                     <?php endif; ?>
                                 </h4>
 							</div>
                             <?php if (!empty($hit['old_price'])) : ?>
                             <div class="srch">
-								<span><?= ((int)$hit['price'] - (int)$hit['old_price']) / 100 ?>%</span>
+								<span><?= ((float)$hit['price'] * (float)$curr['value'] - (float)$hit['old_price'] * (float)$curr['value']) / 100 ?>%</span>
 							</div>
                             <?php endif; ?>
 						</div>

@@ -1,0 +1,5 @@
+<?php if (LOADER) : ?>
+    <div class="preloader"><div id="preloader_preload"></div></div>
+    <style type="text/css">body{overflow: hidden;}.preloader>p{display:none;}#preloader_preload{display: block;position: fixed;z-index: 99999;top: 0;left: 0;width: 100%;height: 100%;background: #181818 url(images/loader.svg) center center no-repeat;background-size:100px;}</style>
+    <script type="text/javascript">var body = document.querySelector("body"); var preloader = document.getElementById("preloader_preload");function fadeOutnojquery(el){el.style.opacity = 1; body.style.overflow = 'auto'; var interpreloader = setInterval(function(){el.style.opacity = el.style.opacity - 0.05;if (el.style.opacity <=0.05){ clearInterval(interpreloader);preloader.style.display = "none";}},16);}w-ndow.onload = function(){setTimeout(function(){fadeOutnojquery(preloader);},1000);};</script>
+<?php endif; ?>

@@ -31,6 +31,10 @@ body a{
     font-family: 'BreeSerif-Regular';
     src:url(../fonts/BreeSerif-Regular.ttf) format('truetype');
 }
+.header {
+    display: flex;
+    align-items: center;
+}
 /*--starts-logo--*/
 .logo {
     text-align: center;

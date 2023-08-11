@@ -560,3 +560,97 @@
 ====================
 [2023-07-30 00:20:00] Текст ошибки: Метод app\controllers\CurrencyController::changeAction не найден! | Файл: /Applications/MAMP/htdocs/vendor/ad/core/Router.php | Строка: 35
 ====================
+[2023-07-30 22:32:16] Текст ошибки: Страница не найдена! | Файл: /Applications/MAMP/htdocs/vendor/ad/core/Router.php | Строка: 41
+====================
+[2023-07-30 22:41:40] Текст ошибки: Не найден вид /Applications/MAMP/htdocs/app/views/Currency/change.php | Файл: /Applications/MAMP/htdocs/vendor/ad/core/base/View.php | Строка: 40
+====================
+[2023-07-30 22:42:47] Текст ошибки: Не найден вид /Applications/MAMP/htdocs/app/views/Currency/change.php | Файл: /Applications/MAMP/htdocs/vendor/ad/core/base/View.php | Строка: 40
+====================
+[2023-07-30 22:42:47] Текст ошибки: Не найден вид /Applications/MAMP/htdocs/app/views/Currency/change.php | Файл: /Applications/MAMP/htdocs/vendor/ad/core/base/View.php | Строка: 40
+====================
+[2023-07-30 22:42:48] Текст ошибки: Не найден вид /Applications/MAMP/htdocs/app/views/Currency/change.php | Файл: /Applications/MAMP/htdocs/vendor/ad/core/base/View.php | Строка: 40
+====================
+[2023-07-30 22:42:48] Текст ошибки: Не найден вид /Applications/MAMP/htdocs/app/views/Currency/change.php | Файл: /Applications/MAMP/htdocs/vendor/ad/core/base/View.php | Строка: 40
+====================
+[2023-07-30 22:43:11] Текст ошибки: Не найден вид /Applications/MAMP/htdocs/app/views/Currency/change.php | Файл: /Applications/MAMP/htdocs/vendor/ad/core/base/View.php | Строка: 40
+====================
+[2023-07-30 22:43:12] Текст ошибки: Не найден вид /Applications/MAMP/htdocs/app/views/Currency/change.php | Файл: /Applications/MAMP/htdocs/vendor/ad/core/base/View.php | Строка: 40
+====================
+[2023-07-30 22:43:12] Текст ошибки: Не найден вид /Applications/MAMP/htdocs/app/views/Currency/change.php | Файл: /Applications/MAMP/htdocs/vendor/ad/core/base/View.php | Строка: 40
+====================
+[2023-07-30 22:43:13] Текст ошибки: Не найден вид /Applications/MAMP/htdocs/app/views/Currency/change.php | Файл: /Applications/MAMP/htdocs/vendor/ad/core/base/View.php | Строка: 40
+====================
+[2023-07-30 22:43:18] Текст ошибки: Не найден вид /Applications/MAMP/htdocs/app/views/Currency/change.php | Файл: /Applications/MAMP/htdocs/vendor/ad/core/base/View.php | Строка: 40
+====================
+[2023-07-30 22:44:13] Текст ошибки: Не найден вид /Applications/MAMP/htdocs/app/views/Currency/change.php | Файл: /Applications/MAMP/htdocs/vendor/ad/core/base/View.php | Строка: 40
+====================
+[2023-07-31 23:07:27] Текст ошибки: Class 'app\widgets\menu\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/menu/Menu.php | Строка: 36
+====================
+[2023-07-31 23:07:38] Текст ошибки: Class 'app\widgets\menu\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/menu/Menu.php | Строка: 36
+====================
+[2023-07-31 23:07:40] Текст ошибки: Class 'app\widgets\menu\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/menu/Menu.php | Строка: 36
+====================
+[2023-07-31 23:23:04] Текст ошибки: Class 'app\widgets\menu\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/menu/Menu.php | Строка: 36
+====================
+[2023-07-31 23:23:05] Текст ошибки: Class 'app\widgets\menu\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/menu/Menu.php | Строка: 36
+====================
+[2023-07-31 23:23:06] Текст ошибки: Class 'app\widgets\menu\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/menu/Menu.php | Строка: 36
+====================
+[2023-07-31 23:23:06] Текст ошибки: Class 'app\widgets\menu\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/menu/Menu.php | Строка: 36
+====================
+[2023-07-31 23:23:06] Текст ошибки: Class 'app\widgets\menu\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/menu/Menu.php | Строка: 36
+====================
+[2023-07-31 23:23:07] Текст ошибки: Class 'app\widgets\menu\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/menu/Menu.php | Строка: 36
+====================
+[2023-07-31 23:23:07] Текст ошибки: Class 'app\widgets\menu\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/menu/Menu.php | Строка: 36
+====================
+[2023-07-31 23:23:07] Текст ошибки: Class 'app\widgets\menu\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/menu/Menu.php | Строка: 36
+====================
+[2023-07-31 23:23:07] Текст ошибки: Class 'app\widgets\menu\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/menu/Menu.php | Строка: 36
+====================
+[2023-07-31 23:23:07] Текст ошибки: Class 'app\widgets\menu\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/menu/Menu.php | Строка: 36
+====================
+[2023-07-31 23:23:09] Текст ошибки: Class 'app\widgets\menu\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/menu/Menu.php | Строка: 36
+====================
+[2023-07-31 23:23:10] Текст ошибки: Class 'app\widgets\menu\App' not found | Файл: /Applications/MAMP/htdocs/app/widgets/menu/Menu.php | Строка: 36
+====================
+[2023-07-31 23:46:11] Текст ошибки: Контроллер app\controllers\CategoryController не найден! | Файл: /Applications/MAMP/htdocs/vendor/ad/core/Router.php | Строка: 38
+====================
+[2023-08-01 00:12:51] Текст ошибки: Страница не найдена! | Файл: /Applications/MAMP/htdocs/vendor/ad/core/Router.php | Строка: 41
+====================
+[2023-08-01 00:13:32] Текст ошибки: Страница не найдена! | Файл: /Applications/MAMP/htdocs/vendor/ad/core/Router.php | Строка: 41
+====================
+[2023-08-01 00:15:53] Текст ошибки: Страница не найдена! | Файл: /Applications/MAMP/htdocs/vendor/ad/core/Router.php | Строка: 41
+====================
+[2023-08-06 22:30:46] Текст ошибки: Контроллер app\controllers\TeraController не найден! | Файл: /Applications/MAMP/htdocs/vendor/ad/core/Router.php | Строка: 38
+====================
+[2023-08-11 22:10:52] Текст ошибки: Страница не найдена! | Файл: /Applications/MAMP/htdocs/vendor/ad/core/Router.php | Строка: 41
+====================
+[2023-08-11 22:11:01] Текст ошибки: Страница не найдена! | Файл: /Applications/MAMP/htdocs/vendor/ad/core/Router.php | Строка: 41
+====================
+[2023-08-11 22:11:21] Текст ошибки: Страница не найдена! | Файл: /Applications/MAMP/htdocs/vendor/ad/core/Router.php | Строка: 41
+====================
+[2023-08-11 22:11:49] Текст ошибки: Контроллер app\controllers\ProductController не найден! | Файл: /Applications/MAMP/htdocs/vendor/ad/core/Router.php | Строка: 38
+====================
+[2023-08-11 22:14:34] Текст ошибки: Страница не найдена! | Файл: /Applications/MAMP/htdocs/vendor/ad/core/Router.php | Строка: 41
+====================
+[2023-08-11 22:14:34] Текст ошибки: Страница не найдена! | Файл: /Applications/MAMP/htdocs/vendor/ad/core/Router.php | Строка: 41
+====================
+[2023-08-11 22:14:34] Текст ошибки: Страница не найдена! | Файл: /Applications/MAMP/htdocs/vendor/ad/core/Router.php | Строка: 41
+====================
+[2023-08-11 22:14:34] Текст ошибки: Страница не найдена! | Файл: /Applications/MAMP/htdocs/vendor/ad/core/Router.php | Строка: 41
+====================
+[2023-08-11 22:14:34] Текст ошибки: Страница не найдена! | Файл: /Applications/MAMP/htdocs/vendor/ad/core/Router.php | Строка: 41
+====================
+[2023-08-11 22:14:34] Текст ошибки: Страница не найдена! | Файл: /Applications/MAMP/htdocs/vendor/ad/core/Router.php | Строка: 41
+====================
+[2023-08-11 22:14:34] Текст ошибки: Страница не найдена! | Файл: /Applications/MAMP/htdocs/vendor/ad/core/Router.php | Строка: 41
+====================
+[2023-08-11 22:14:34] Текст ошибки: Страница не найдена! | Файл: /Applications/MAMP/htdocs/vendor/ad/core/Router.php | Строка: 41
+====================
+[2023-08-11 22:14:34] Текст ошибки: Страница не найдена! | Файл: /Applications/MAMP/htdocs/vendor/ad/core/Router.php | Строка: 41
+====================
+[2023-08-11 22:14:34] Текст ошибки: Страница не найдена! | Файл: /Applications/MAMP/htdocs/vendor/ad/core/Router.php | Строка: 41
+====================
+[2023-08-11 22:14:34] Текст ошибки: Страница не найдена! | Файл: /Applications/MAMP/htdocs/vendor/ad/core/Router.php | Строка: 41
+====================

@@ -9,6 +9,7 @@ define("LIBS", ROOT . '/vendor/ad/core/libs');
 define("CACHE", ROOT . '/tmp/cache');
 define("CONF", ROOT . '/config');
 define("LAYOUT", 'watches');
+define("LOADER", 0);
 
 $app_path = "http://{$_SERVER['HTTP_HOST']}{$_SERVER['PHP_SELF']}";
 $app_path = preg_replace('#[^/]+$#', '', $app_path);
